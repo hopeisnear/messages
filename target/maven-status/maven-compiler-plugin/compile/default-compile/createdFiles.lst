@@ -1,0 +1,7 @@
+com\sabre\component\DBStaticCache.class
+com\sabre\config\AppConfig.class
+com\sabre\component\MessageServiceImpl.class
+com\sabre\config\WebAppInitializer.class
+com\sabre\Message.class
+com\sabre\component\MessageService.class
+com\sabre\MessageController.class
